@@ -21,7 +21,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <Hello name = "Lets instrument it."/>
     <Footer />
     </div>
-    <Sidebar name ="Above the cloud"/>
+    <Sidebar />
     </div>
 
   </React.StrictMode>,
