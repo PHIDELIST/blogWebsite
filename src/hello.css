@@ -1,0 +1,29 @@
+
+#jitu{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.container-main{
+    background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+    height: auto;
+}
+
+.container-left{
+        width: 45%;
+        height: auto;
+        flex: 1;
+}
+.desktop-img{
+    display: block;
+    max-width: 45%;
+    height:auto;
+    flex: 1;
+}

@@ -1,0 +1,14 @@
+#nav-list{
+    display: flex;
+    flex-direction: row;
+    background-color: aquamarine;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+#nav-list p{
+    list-style: none;
+    font-size: 20px;
+}

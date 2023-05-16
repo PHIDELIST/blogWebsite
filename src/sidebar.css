@@ -1,0 +1,18 @@
+#side{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(115, 208, 126);
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    width: 20%;
+    flex-wrap: nowrap;
+}
+#side h1{
+    display: flex;
+    flex-wrap: nowrap;
+    font-size: 15px;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
