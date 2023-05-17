@@ -1,11 +1,5 @@
 
-#jitu{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    justify-content: space-between;
-}
+
 .container-main{
     background-color: antiquewhite;
     justify-content: center;
@@ -14,6 +8,7 @@
     flex-direction: row;
     margin-top: 15px;
     height: auto;
+    box-shadow: inset 5px 5px 10px #000000, inset -5px -5px 10px rgb(213, 213, 238);
 }
 
 .container-left{

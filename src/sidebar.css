@@ -3,8 +3,7 @@
     flex-direction: column;
     background-color: rgb(115, 208, 126);
     padding: 10px;
-    justify-content: center;
-    align-items: center;
+    margin-top: 15px;
     gap: 3rem;
     width: 20%;
     flex-wrap: nowrap;

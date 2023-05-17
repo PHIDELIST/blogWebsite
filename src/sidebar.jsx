@@ -1,6 +1,5 @@
 import React from 'react'
 import './sidebar.css'
-import Hello from './hello.jsx'
 import Title from './title.jsx'
 
 
