@@ -12,8 +12,8 @@ function footer() {
   return (
     <>
     <footer id='footer'>	
-          <h1>Activate the cloud</h1>
-					<h1>{date}</h1>
+          <h1>I hate CORS but it's the only way to get the data</h1>
+					<h1>@ {date}</h1>
 	</footer>
     </>
   )
