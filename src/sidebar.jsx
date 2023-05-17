@@ -15,7 +15,7 @@ function Sidebar(props) {
    
     <div id='sidebar'>
           <Title title='Above the cloud'/> 
-          <Title title='Cloud it'/> 
+          <Title title='Activate the Cloud'/> 
           <Title title='Lets instrument it.'/> 
     </div>
     </div>
